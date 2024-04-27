@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dsa-telusko/dsa-telusko.iml" filepath="$PROJECT_DIR$/dsa-telusko/dsa-telusko.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-programs-practice.iml" filepath="$PROJECT_DIR$/.idea/java-programs-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leet-code-easy/leet-code-easy.iml" filepath="$PROJECT_DIR$/leet-code-easy/leet-code-easy.iml" />
+    </modules>
+  </component>
+</project>
